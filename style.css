@@ -1,0 +1,33 @@
+.container{
+    width: 50%;
+    height: 70vh;
+    margin: auto;
+    position: relative;
+}
+.container .circle-1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: absolute;
+    left: 35%;
+}
+.container .circle-2{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 9%;
+    left: 20%;
+
+}
+.container .circle-3{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: absolute;
+   bottom: 9%;
+   right: 16%;
+}
